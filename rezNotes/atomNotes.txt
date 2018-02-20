@@ -1,7 +1,0 @@
-ATOM NOTES
-
-ctl-alt-3 for atom live server on localhost:3000
-
-! tab for basic HTML page
-
-F2 rename file/dir
