@@ -1,0 +1,5 @@
+css Notes
+
+text/css // https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+
+Any CSS files that have to be interpreted as such in a Web page must be of the text/css files. Often servers do not recognize files with the .css suffix as CSS files, instead they send them with text/plain or application/octet-stream MIME type: in these cases, they won't be recognized as CSS files by most browsers and will be silently ignored. Special attention has to be paid to serve CSS files with the correct type.

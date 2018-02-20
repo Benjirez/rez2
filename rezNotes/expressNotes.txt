@@ -1,0 +1,21 @@
+express Notes
+
+//MIME type info: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types
+
+npm install express -save //(-save to include as dependency)
+
+var express = require('express');
+
+var xsvr = express();
+
+xsvr.get('/request url', function(req, res){
+
+	//possible methods:
+	//res.send('text');
+	//res.sendFile???
+	//res.render('name of view/.ejs file');
+	//res.write( 'adds to res' );
+	//res.send();
+	//res.end();
+
+});

@@ -1,0 +1,13 @@
+JSON NOTES
+
+must use double-quotes ""
+
+
+{
+  "group1": [
+    {"k1": "d1"},
+    {"k2": "d2"},
+    {"k3": "d3"},
+    {"k4": "d4"}
+  ]
+}

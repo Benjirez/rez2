@@ -1,0 +1,9 @@
+NPM Notes
+
+npm init // creates package.JSON
+
+npm install express -save // add express as dependency to package.json
+
+npm install // installs any dependencies
+
+npm install -g nodemon // installs nodemon globally, runs: nodemon main.js, etc.
