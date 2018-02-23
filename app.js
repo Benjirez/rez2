@@ -17,4 +17,4 @@ todoController( xsvr ); //passing it the express server
 //listen to port
 xsvr.listen(3000);
 //xsvr.listen(PORT, () => console.log(`Listening on ${ PORT }`))
-console.log('xsvr listening on 5000');
+console.log('xsvr listening on 3000');
